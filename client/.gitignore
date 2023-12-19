@@ -1,0 +1,5 @@
+# we do not want to commit these files to github
+
+.next
+node_modules
+.env.local
